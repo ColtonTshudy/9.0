@@ -620,7 +620,7 @@
     ],
     "first_run_shown": true,
     "last_footprint3d_dir": "",
-    "last_footprint_lib_dir": "",
+    "last_footprint_lib_dir": "C:\\Users\\Tshud\\Documents\\GitHub\\ct-lib-kicad\\footprints",
     "last_imperial_units": 0,
     "last_metric_units": 1,
     "max_undo_items": 0,
