@@ -179,8 +179,28 @@
     "show_text_fill": true,
     "size_x": 500,
     "size_y": 400,
+    "use_45_limit": true,
     "zoom": 1.0,
-    "zoom_factors": []
+    "zoom_factors": [
+      0.13,
+      0.22,
+      0.35,
+      0.6,
+      1.0,
+      1.5,
+      2.2,
+      3.5,
+      5.0,
+      8.0,
+      13.0,
+      20.0,
+      35.0,
+      50.0,
+      80.0,
+      130.0,
+      220.0,
+      300.0
+    ]
   },
   "footprints_pane_width": 0,
   "graphics": {
@@ -210,6 +230,7 @@
     "use_theme": false
   },
   "search_pane": {
+    "search_hidden_fields": true,
     "selection_zoom": 1
   },
   "system": {
@@ -370,6 +391,25 @@
     "pos_y": -8,
     "size_x": 1936,
     "size_y": 1056,
-    "zoom_factors": []
+    "zoom_factors": [
+      0.13,
+      0.22,
+      0.35,
+      0.6,
+      1.0,
+      1.5,
+      2.2,
+      3.5,
+      5.0,
+      8.0,
+      13.0,
+      20.0,
+      35.0,
+      50.0,
+      80.0,
+      130.0,
+      220.0,
+      300.0
+    ]
   }
 }

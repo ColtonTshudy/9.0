@@ -31,6 +31,7 @@
   "environment": {
     "show_warning_dialog": true,
     "vars": {
+      "CT_KICAD_LIBRARY": "C:\\Users\\Tshud\\Documents\\GitHub\\ct-lib-kicad",
       "KICAD_TEMPLATE_DIR": "F:\\Program Files (2)\\KiCad\\share\\kicad\\template",
       "KICAD_USER_TEMPLATE_DIR": "C:\\Users\\Tshud\\kicad\\template",
       "KIGITHUB": "https://github.com/KiCad"
@@ -95,6 +96,6 @@
     "pdf_viewer_name": "",
     "text_editor": "C:\\WINDOWS\\system32\\notepad.exe",
     "use_system_pdf_viewer": true,
-    "working_dir": "C:\\Program Files\\KiCad\\9.0"
+    "working_dir": "H:\\Documents_H\\KiCad\\Projects\\battery-node"
   }
 }
