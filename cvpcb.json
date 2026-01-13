@@ -202,7 +202,7 @@
       300.0
     ]
   },
-  "footprints_pane_width": 0,
+  "footprints_pane_width": 580,
   "graphics": {
     "canvas_type": 1,
     "highlight_factor": 0.5,
@@ -213,7 +213,7 @@
     "columns": [],
     "open_libs": []
   },
-  "libraries_pane_width": 0,
+  "libraries_pane_width": 387,
   "meta": {
     "version": 0
   },
@@ -384,11 +384,11 @@
       "user_grid_x": "10 mil",
       "user_grid_y": "10 mil"
     },
-    "maximized": true,
+    "maximized": false,
     "mru_path": "C:\\Users\\Tshud\\Documents",
-    "perspective": "layout2|name=m_mainToolBar;caption=;state=140144;dir=1;layer=10;row=0;pos=0;prop=100000;bestw=505;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=m_compListBox;caption=;state=768;dir=5;layer=10;row=0;pos=0;prop=100000;bestw=300;besth=150;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=m_libListBox;caption=;state=1020;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=387;besth=1056;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=m_footprintListBox;caption=;state=1020;dir=2;layer=0;row=0;pos=0;prop=100000;bestw=580;besth=1056;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=buttons;caption=;state=140144;dir=3;layer=10;row=0;pos=0;prop=100000;bestw=407;besth=68;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,10,0)=38|dock_size(5,10,0)=302|dock_size(4,0,0)=389|dock_size(2,0,0)=576|dock_size(3,10,0)=70|",
-    "pos_x": -8,
-    "pos_y": -8,
+    "perspective": "layout2|name=MainToolbar;caption=;state=139644;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=702;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Libraries;caption=Footprint Libraries;state=2044;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=387;besth=1056;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Symbols;caption=Symbol : Footprint Assignments;state=2044;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=150;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Footprints;caption=Filtered Footprints;state=2044;dir=2;layer=1;row=0;pos=0;prop=100000;bestw=580;besth=1056;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Buttons;caption=;state=139644;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=401;besth=84;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=34|dock_size(4,1,0)=389|dock_size(5,0,0)=302|dock_size(2,1,0)=582|dock_size(3,6,0)=84|",
+    "pos_x": 318,
+    "pos_y": 54,
     "size_x": 1936,
     "size_y": 1056,
     "zoom_factors": [
