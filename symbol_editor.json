@@ -64,7 +64,10 @@
       "Description"
     ],
     "open_libs": [
-      "ct_lib"
+      "ct_lib",
+      "Device",
+      "Relay",
+      "Sensor_Temperature"
     ]
   },
   "library": {
@@ -129,7 +132,7 @@
       "axes_enabled": true,
       "fast_grid_1": 1,
       "fast_grid_2": 2,
-      "last_size": 1,
+      "last_size": 2,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": true,
@@ -167,8 +170,8 @@
         },
         {
           "name": "User Grid",
-          "x": "10 mil",
-          "y": "10 mil"
+          "x": "6.35",
+          "y": "6.35"
         }
       ],
       "snap": 0,
